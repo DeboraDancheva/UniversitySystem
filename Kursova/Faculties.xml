@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Faculties>
+<Faculty>
+<Name>Applied Mathematics and Informatics</Name>
+<Specialties>
+<Specialty>
+<Name>Informatics and software sciences</Name>
+<Subjects>
+<Subject>
+<Name>Linear algebra and analytic geometry</Name>
+<ID>1</ID>
+</Subject>
+<Subject>
+<Name>Mathematical analysis</Name>
+<ID>2</ID>
+</Subject>
+<Subject>
+<Name>Discrete structures</Name>
+<ID>3</ID>
+</Subject>
+<Subject>
+<Name>Introduction to programming</Name>
+<ID>4</ID>
+</Subject>
+</Subjects>
+</Specialty>
+<Specialty>
+<Name>Applied Mathematics and Informatics</Name>
+<Subjects>
+<Subject>
+<Name>Linear algebra</Name>
+<ID>5</ID>
+</Subject>
+<Subject>
+<Name>Analytic geometry</Name>
+<ID>6</ID>
+</Subject>
+<Subject>
+<Name>Informatics 1</Name>
+<ID>7</ID>
+</Subject>
+<Subject>
+<Name>Mathematical analysis</Name>
+<ID>2</ID>
+</Subject>
+</Subjects>
+</Specialty>
+<Specialty>
+<Name>Applied Physics</Name>
+<ID>8</ID>
+<Subjects>
+<Subject>
+<Name>Introduction to the specialty</Name>
+<ID>9</ID>
+</Subject>
+<Subject>
+<Name>Mathematics 1</Name>
+<ID>10</ID>
+</Subject>
+<Subject>
+<Name>Chemistry</Name>
+<ID>11</ID>
+</Subject>
+<Subject>
+<Name>Economics</Name>
+<ID>12</ID>
+</Subject>
+</Subjects>
+</Specialty>
+</Specialties>
+</Faculty>
+<Faculty>
+<Name>Computer systems and technology</Name>
+<Specialties>
+<Specialty>
+<Name>Computer Science and Engineering</Name>
+<Subjects>
+<Subject>
+<Name>Introduction to the specialty</Name>
+<ID>9</ID>
+</Subject>
+<Subject>
+<Name>Mathematics 1</Name>
+<ID>10</ID>
+</Subject>
+<Subject>
+<Name>Synthesis and analysis of algorithms</Name>
+<ID>13</ID>
+</Subject>
+<Subject>
+<Name>Physics</Name>
+<ID>14</ID>
+</Subject>
+</Subjects>
+</Specialty>
+<Specialty>
+<Name>Computer and Software Engineering</Name>
+<Subjects>
+<Subject>
+<Name>Mathematics 1</Name>
+<ID>10</ID>
+</Subject>
+<Subject>
+<Name>Physics</Name>
+<ID>14</ID>
+</Subject>
+<Subject>
+<Name>Chemistry</Name>
+<ID>11</ID>
+</Subject>
+<Subject>
+<Name>Fundamentals of Engineering design</Name>
+<ID>15</ID>
+</Subject>
+</Subjects>
+</Specialty>
+<Specialty>
+<Name>Information technology in the industry</Name>
+<Subjects>
+<Subject>
+<Name>Introduction to the specialty</Name>
+<ID>9</ID>
+</Subject>
+<Subject>
+<Name>Mathematics 1</Name>
+<ID>10</ID>
+</Subject>
+<Subject>
+<Name>Chemistry</Name>
+<ID>11</ID>
+</Subject>
+<Subject>
+<Name>Physics</Name>
+<ID>14</ID>
+</Subject>
+</Subjects>
+</Specialty>
+</Specialties>
+</Faculty>
+</Faculties>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+C:\Users\debor\source\repos\Kursova\Models\bin\Debug\Models.dll
+C:\Users\debor\source\repos\Kursova\Models\bin\Debug\Models.pdb
+C:\Users\debor\source\repos\Kursova\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\debor\source\repos\Kursova\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\Kursova\Models\obj\Debug\Models.dll
+C:\Users\debor\source\repos\Kursova\Models\obj\Debug\Models.pdb
+E:\яажяж\Kursova\Models\bin\Debug\Models.dll
+E:\яажяж\Kursova\Models\bin\Debug\Models.pdb
+E:\яажяж\Kursova\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\яажяж\Kursova\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\яажяж\Kursova\Models\obj\Debug\Models.dll
+E:\яажяж\Kursova\Models\obj\Debug\Models.pdb
